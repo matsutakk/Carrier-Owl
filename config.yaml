@@ -3,8 +3,23 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
+        interpretable: 5
+        explainable: 5
+        interpretability: 5
+        explainability: 5
+        symbolic regression: 5
+        rashomon: 3
+        disentanglement: 3
+        white box: 3
+        mirna: 3
+        prototype: 3
+        case-based: 3
+        additive model: 3
+        decision lists: 3
+        decision sets: 3
+        decision trees: 3
+        scoring systems: 3
+        kaggle: 1
         anomaly detection: 1
 
 # 通知の閾値
